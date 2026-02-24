@@ -4,4 +4,5 @@ This filen contains HTML, CSS and JavaScript
 <br>
 Feel free to edit after download
 # How to use
-Download the HTML file titled "Main" and open it in a brower or a code editor
+Download the HTML file titled "index" and open it in a brower or a code editor
+Or open this link: xerrortm.github.io/Stage-Lights
