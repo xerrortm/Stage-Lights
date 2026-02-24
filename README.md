@@ -2,13 +2,13 @@
 # Stage Lights
 > [!NOTE]
 > Use this tool at your own risk. This website may contain extreme colors and may crash your browser.
-<br>
-This is a website where you can test out different types of stage lights, simulating the real stage
+
+This is a website where you can test out different types of stage lights, simulating the real stage.
 This file contains HTML, CSS and JavaScript
 
 # How to play
 You can open the website [here](https://xerrortm.github.io/Stage-Lights):
-<br>
+
 Or download the `index.html`
-<br><br>
+
 ![Preview](preview.jpeg)
