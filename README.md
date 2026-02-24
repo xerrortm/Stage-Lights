@@ -4,10 +4,8 @@ Website where you can try out different types of stage lights (may contain extre
 This file contains HTML, CSS and JavaScript
 <br>
 # How to play
-You can open this link:
+You can open this link [here](https://xerrortm.github.io/Stage-Lights):
 <br>
-https://xerrortm.github.io/Stage-Lights
-<br><br>
-Or download here:
+Or download the `index.html`
 <br>
-https://raw.githubusercontent.com/xerrortm/Stage-Lights/main/index.html
+![Preview](preview.jpeg)
